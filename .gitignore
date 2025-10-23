@@ -1,0 +1,18 @@
+# IntelliJ  Eclipse
+.idea
+.iml
+.classpath
+.project
+.settings
+
+# Build
+target
+bin
+
+# Logs & reports
+.log
+.tmp
+.cache
+screenshots
+allure-results
+allure-report
